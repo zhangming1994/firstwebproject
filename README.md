@@ -1,1 +1,2 @@
-# firstwebproject
+# 纯前端页面
+前端入门实战，一个纯静态html页面
